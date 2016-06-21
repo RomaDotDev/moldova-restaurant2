@@ -1,0 +1,184 @@
+[
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Taranesc",
+    "pic": "Taranesc",
+    "desc_en": "Tomatoes, cucumbers, peppers, feta cheese with sunflower oil dressing",
+    "desc_ru": "Помидоры, огурцы, сладкий перец, брынза с подсолнечным маслом"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Delicios",
+    "pic": "Delicios",
+    "desc_en": "Chicken breast, swiss cheese, corn, tomatoes, peppers, rich dressing",
+    "desc_ru": "Куриная грудка, швейцарский сыр, кукуруза, помидоры, перец, соус"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Primavara",
+    "pic": "Primavara",
+    "desc_en": "Red radish with lettuce, scallion, dill and sour cream",
+    "desc_ru": "Красная редиска с листьями салата, зеленый лук, укроп со сметаной"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Salata cu Carne de Vita",
+    "pic": "Salata-cu-Carne-de-Vita",
+    "desc_en": "Beef, peppers, tomatoes, cucumbers, light dressing",
+    "desc_ru": "Говядина, перец, помидоры, огурцы, легкий соус"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Salata din Limba",
+    "pic": "Salata-din-Limba",
+    "desc_en": "Veal tongue, tomatoes, cucumbers, rich dressing",
+    "desc_ru": "Телячий язык, помидоры, огурцы, соус"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Salata de Varza",
+    "pic": "Salata-de-Varza",
+    "desc_en": "Shredded white cabbage salad",
+    "desc_ru": "Салат из капусты"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Zeama",
+    "pic": "Zeama",
+    "desc_en": "Chicken meat soup with homemade noodles",
+    "desc_ru": "Куриный суп с домашней лапшой"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Ciorba de Vita cu Fasole",
+    "pic": "Ciorba-de-Vita-cu-Fasole",
+    "desc_en": "Veal meat soup with beans and vegetables",
+    "desc_ru": "Суп из телятины с фасолью и овощами"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Ciorba de Perisoare",
+    "pic": "Ciorba-de-Perisoare",
+    "desc_en": "Meatball sour soup",
+    "desc_ru": "Суп с фрикадельками"
+  },
+  {
+    "category": "Choice of Salad or Soup",
+    "title": "Ciorba de Burta",
+    "pic": "Ciorba-de-Burta",
+    "desc_en": "Beef tripe sour cream soup",
+    "desc_ru": "Традиционный румынский говяжий крем-суп"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Mamaliga Trapeza (House Special)",
+    "pic": "Mamaliga-Trapeza",
+    "desc_en": "Special prepared corn meal with assorted sides of meat, cheese, sour cream, scrambled eggs",
+    "desc_ru": "Мамалыга, приготовленная по традиционному рецепту Молдавии, с мясом, сыром, сметаной и омлетом"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Costita",
+    "pic": "Costita",
+    "desc_en": "Traditional cooked pork chop with mamaliga",
+    "desc_ru": "Свинина на косточке с мамалыгой"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Snitzel",
+    "pic": "Snitzel",
+    "desc_en": "Chicken breast in eggs and flour",
+    "desc_ru": "Куриная грудка в кляре"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Medalion",
+    "pic": "Medalion",
+    "desc_en": "Stuffed chicken breast with cheese topping",
+    "desc_ru": "Фаршированная куриная грудка в сырном соусе"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Ceafa de Porc",
+    "pic": "Ceafa-de-Porc",
+    "desc_en": "Pork neck on grill",
+    "desc_ru": "Свиная шейка на гриле"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Antricot",
+    "pic": "Antricot",
+    "desc_en": "Beef grilled with herbs",
+    "desc_ru": "Говядина на гриле с пряными травами"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Carp",
+    "pic": "Carp",
+    "desc_en": "Carp fried in corn meal",
+    "desc_ru": "Филе карпа, обжаренное в кукурузной муке"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Somon",
+    "pic": "Somon",
+    "desc_en": "Grilled salmon with lemon sauce and veggies",
+    "desc_ru": "Лосось на гриле с лимонным соусом и овощами"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Ficatei de pui la tigaie",
+    "pic": "Ficatei-de-pui-la-tigaie",
+    "desc_en": "Chicken liver on frying pan with mamaliga",
+    "desc_ru": "Куриная печень на сковороде с мамалыгой"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Frigarui de Porc",
+    "pic": "Frigarui-de-Porc",
+    "desc_en": "Pork shish kebab",
+    "desc_ru": "Свиной шашлык"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Frigarui de Gaina",
+    "pic": "Frigarui-de-Gaina",
+    "desc_en": "Chicken shish kebab",
+    "desc_ru": "Куриный шашлык"
+  },
+  {
+    "category": "Choice of Main Entree",
+    "title": "Frigarui de Miel",
+    "pic": "Frigarui-de-Miel",
+    "desc_en": "Lamb shish kebab",
+    "desc_ru": "Шашлык из баранины"
+  },
+  {
+    "category": "Choice of Beverage",
+    "title": "Compot de Casa",
+    "pic": "Punch",
+    "desc_en": "Homemade Fruit Punch",
+    "desc_ru": "Домашний фруктовый компот"
+  },
+  {
+    "category": "Choice of Beverage",
+    "title": "Suc",
+    "pic": "Juice",
+    "desc_en": "Juice (orange, apple, grapefruit, cranberry, tomato, pineapple)",
+    "desc_ru": "Cок (апельсиновый, яблочный, грейпфрутовый, клюквенный, томатный,ананасовый)"
+  },
+  {
+    "category": "Choice of Beverage",
+    "title": "Cafea",
+    "pic": "Coffee",
+    "desc_en": "Coffee",
+    "desc_ru": "Кофе"
+  },
+  {
+    "category": "Choice of Beverage",
+    "title": "Ceai",
+    "pic": "Tea",
+    "desc_en": "Tea",
+    "desc_ru": "Чай"
+  }
+]
