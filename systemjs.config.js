@@ -18,18 +18,18 @@
   var packages = {
     'app':                        { main: 'main.js',  defaultExtension: 'js' },
     'rxjs':                       { defaultExtension: 'js' },
-    'angular2-in-memory-web-api': { main: 'index.js', defaultExtension: 'js' },
-    '@angular/router':              { main: 'index.js', defaultExtension: 'js' }
+    'angular2-in-memory-web-api': { main: 'index.js', defaultExtension: 'js' }
   };
 
   var ngPackageNames = [
     'common',
     'compiler',
     'core',
+    'forms',
     'http',
     'platform-browser',
     'platform-browser-dynamic',
-    //'router',
+    'router',
     'upgrade',
   ];
 
@@ -47,6 +47,9 @@
 
   // Add package entries for angular packages
   ngPackageNames.forEach(setPackageConfig);
+
+  // No umd for router yet
+ packages['@angular/router'] = { main: 'index.js', defaultExtension: 'js' };
 
   var config = {
     map: map,
