@@ -59,17 +59,3 @@
   System.config(config);
 
 })(this);
-
-
-////////////////////
-// System.config({
-//   packages: {
-//     app: {
-//       format: 'register',
-//       defaultExtension: 'js'
-//     }
-//   },
-//   map: {
-//     moment: 'node_modules/moment/moment.js'
-//   }
-// });
