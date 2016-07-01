@@ -7,26 +7,26 @@ import { Observable } from 'rxjs/Rx';
 @Injectable()
 
 export class MenuService {
-  constructor (private http: Http) {}
-  private heroesUrl = 'json/menu.json';  // URL to web API
 
-  getMenu(): Observable<Dish[]> {
-    return this.http.get(this.heroesUrl)
-                    .map(this.extractData)
-                    .catch(this.handleError);
-  }
+    constructor (private http: Http) {}
 
-  private extractData(res: Response) {
-    let body = res.json();
-    return body || { };
-  }
+    getMenu(menuUrl:string): Observable<Dish[]> {
+        return this.http.get(menuUrl)
+                        .map(this.extractData)
+                        .catch(this.handleError);
+    }
 
-  private handleError (error: any) {
-    // In a real world app, we might use a remote logging infrastructure
-    // We'd also dig deeper into the error to get a better message
-    let errMsg = (error.message) ? error.message :
-      error.status ? `${error.status} - ${error.statusText}` : 'Server error';
-    console.error(errMsg); // log to console instead
-    return Observable.throw(errMsg);
-  }
+    private extractData(res: Response) {
+        let body = res.json();
+        return body || { };
+    }
+
+    private handleError (error: any) {
+        // In a real world app, we might use a remote logging infrastructure
+        // We'd also dig deeper into the error to get a better message
+        let errMsg = (error.message) ? error.message :
+          error.status ? `${error.status} - ${error.statusText}` : 'Server error';
+        console.error(errMsg); // log to console instead
+        return Observable.throw(errMsg);
+    }
 }

@@ -14,7 +14,7 @@ import { Dish } from './dish';
 		<p>
 			{{ item.description.ru }}
 		</p>
-		<span>{{ item.price }}</span>
+		<span *ngIf="item.price">{{ item.price }}</span>
     `
 })
 

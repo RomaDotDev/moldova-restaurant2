@@ -11,8 +11,6 @@ import { ROUTER_DIRECTIVES } from '@angular/router';
             <a [routerLink]="['/contact']">Contact</a>
             <a [routerLink]="['/gallery']">Gallery</a>
             <a [routerLink]="['/menu']">Menu</a>
-            <a [routerLink]="['/banquet']">Banquet</a>
-            <a [routerLink]="['/lunch']">Lunch</a>
         </nav>
     `,
     directives: [
