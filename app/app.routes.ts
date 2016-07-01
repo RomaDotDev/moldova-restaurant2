@@ -5,9 +5,7 @@ import { AboutUsComponent } from './about-us/about-us.component';
 import { TestimonialsComponent } from './testimonials/testimonials.component';
 import { ContactComponent } from './contact/contact.component';
 import { GalleryComponent } from './gallery/gallery.component';
-import { MenuComponent } from './menu/menu.component';
-import { BanquetComponent } from './banquet/banquet.component';
-import { LunchComponent } from './lunch/lunch.component';
+import { MenuRoutes } from './menu/menu.routes';
 
 export const routes: RouterConfig = [
     {path: '', component: HomeComponent},
@@ -15,9 +13,7 @@ export const routes: RouterConfig = [
     {path: 'testimonials', component: TestimonialsComponent},
     {path: 'contact', component: ContactComponent},
     {path: 'gallery', component: GalleryComponent},
-    {path: 'menu', component: MenuComponent},
-    {path: 'banquet', component: BanquetComponent},
-    {path: 'lunch', component: LunchComponent}
+    ...MenuRoutes
 ];
 
 export const APP_ROUTER_PROVIDERS = [

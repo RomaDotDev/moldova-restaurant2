@@ -5,5 +5,5 @@ import { Component, Injectable } from '@angular/core';
 })
 
 @Injectable()
-export class LunchComponent {
+export class LunchMenuComponent {
 }

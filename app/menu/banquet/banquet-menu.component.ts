@@ -5,5 +5,5 @@ import { Component, Injectable } from '@angular/core';
 })
 
 @Injectable()
-export class BanquetComponent {
+export class BanquetMenuComponent {
 }

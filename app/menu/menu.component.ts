@@ -1,32 +1,15 @@
 import { Component, Injectable, OnInit } from '@angular/core';
-
-import { MenuService } from './menu.service';
-import { DishComponent } from './shared/dish/dish.component';
-import { Dish } from './shared/dish/dish';
+import { ROUTER_DIRECTIVES } from '@angular/router';
 
 @Component({
     template: `
-        <ul>
-            <li *ngFor="let item of dishes">
-                <dish [item]="item"></dish>
-            </li>
-        <ul>
+        <router-outlet></router-outlet>
     `,
-    providers: [ MenuService ],
-    directives: [ DishComponent ]
+    directives: [ ROUTER_DIRECTIVES ]
 })
 
 @Injectable()
 export class MenuComponent implements OnInit{
-    private dishes:Array<Dish>;
-
-    constructor(
-        private menuService: MenuService
-    ){}
-
-    ngOnInit(){
-        this.menuService.getMenu().subscribe(
-            res => this.dishes = res
-        );
-    }
+    constructor(){}
+    ngOnInit(){}
 }
