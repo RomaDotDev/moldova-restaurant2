@@ -9,10 +9,10 @@ import { Dish } from './dish';
         </div>
         <h3>{{ item.title }}</h3>
 		<p>
-			{{ item.desc_en }}
+			{{ item.description.en }}
 		</p>
 		<p>
-			{{ item.desc_ru }}
+			{{ item.description.ru }}
 		</p>
 		<span>{{ item.price }}</span>
     `

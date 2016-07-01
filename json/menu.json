@@ -4,695 +4,869 @@
     "title": "Taranesc",
     "pic": "Taranesc",
     "price": "$6.99",
-    "desc_en": "Tomatoes, cucumbers, peppers, feta cheese with sunflower oil dressing",
-    "desc_ru": "Помидоры, огурцы, сладкий перец, брынза с подсолнечным маслом"
+    "description":{
+        "en": "Tomatoes, cucumbers, peppers, feta cheese with sunflower oil dressing",
+        "ru": "Помидоры, огурцы, сладкий перец, брынза с подсолнечным маслом"
+    }
   },
   {
     "category": "Salads",
     "title": "Delicios",
     "pic": "Delicios",
     "price": "$7.59",
-    "desc_en": "Chicken breast, swiss cheese, corn, tomatoes, peppers, rich dressing",
-    "desc_ru": "Куриная грудка, швейцарский сыр, кукуруза, помидоры, перец, соус"
+    "description":{
+        "en": "Chicken breast, swiss cheese, corn, tomatoes, peppers, rich dressing",
+        "ru": "Куриная грудка, швейцарский сыр, кукуруза, помидоры, перец, соус"
+    }
   },
   {
     "category": "Salads",
     "title": "Primavara",
     "pic": "Primavara",
     "price": "$5.99",
-    "desc_en": "Red radish with lettuce, scallion, dill and sour cream",
-    "desc_ru": "Красная редиска с листьями салата, зеленый лук, укроп со сметаной"
+    "description":{
+        "en": "Red radish with lettuce, scallion, dill and sour cream",
+        "ru": "Красная редиска с листьями салата, зеленый лук, укроп со сметаной"
+    }
   },
   {
     "category": "Salads",
     "title": "Salata cu Carne de Vita",
     "pic": "Salata-cu-Carne-de-Vita",
     "price": "$6.99",
-    "desc_en": "Beef, peppers, tomatoes, cucumbers, light dressing",
-    "desc_ru": "Говядина, перец, помидоры, огурцы, легкий соус"
+    "description":{
+        "en": "Beef, peppers, tomatoes, cucumbers, light dressing",
+        "ru": "Говядина, перец, помидоры, огурцы, легкий соус"
+    }
   },
   {
     "category": "Salads",
     "title": "Salata din Limba",
     "pic": "Salata-din-Limba",
     "price": "$7.59",
-    "desc_en": "Veal tongue, tomatoes, cucumbers, rich dressing",
-    "desc_ru": "Телячий язык, помидоры, огурцы, соус"
+    "description":{
+        "en": "Veal tongue, tomatoes, cucumbers, rich dressing",
+        "ru": "Телячий язык, помидоры, огурцы, соус"
+    }
   },
   {
     "category": "Salads",
     "title": "Dunarea",
     "pic": "Dunarea",
     "price": "$10.99",
-    "desc_en": "Daicon, cucumbers, roasted spicy shrimps, caviar “Icura”",
-    "desc_ru": "Редис, огурец, жареные острые креветки, икра “Icura”"
+    "description":{
+        "en": "Daicon, cucumbers, roasted spicy shrimps, caviar “Icura”",
+        "ru": "Редис, огурец, жареные острые креветки, икра “Icura”"
+    }
   },
   {
     "category": "Salads",
     "title": "Salata de Varza",
     "pic": "Salata-de-Varza",
     "price": "$4.59",
-    "desc_en": "Shredded white cabbage salad",
-    "desc_ru": "Салат из капусты"
+    "description":{
+        "en": "Shredded white cabbage salad",
+        "ru": "Салат из капусты"
+    }
   },
   {
     "category": "Salads",
     "title": "Nistru",
     "pic": "Nistru",
     "price": "$9.99",
-    "desc_en": "Tomatoes, cucumber, apple, onion, salted salmon, red caviar and mayonnaise",
-    "desc_ru": "Экзотический салат с помидорами,огурцами, яблоком, луком, лососем, красной икрой и майонезом"
+    "description":{
+        "en": "Tomatoes, cucumber, apple, onion, salted salmon, red caviar and mayonnaise",
+        "ru": "Экзотический салат с помидорами,огурцами, яблоком, луком, лососем, красной икрой и майонезом"
+    }
   },
   {
     "category": "Salads",
     "title": "Salata Orheiului",
     "pic": "Salata-Orheiului",
     "price": "$7.99",
-    "desc_en": "Tomatoes, Mozzarella cheese, green leaves, walnuts, sunflower oil and vinegar",
-    "desc_ru": "Помидоры, сыр моцарелла, зеленые листья, грецкий орех с подсолнечным мастом и уксусом"
+    "description":{
+        "en": "Tomatoes, Mozzarella cheese, green leaves, walnuts, sunflower oil and vinegar",
+        "ru": "Помидоры, сыр моцарелла, зеленые листья, грецкий орех с подсолнечным мастом и уксусом"
+    }
   },
   {
     "category": "Salads",
     "title": "Salata de Fasole Pastai cu Legume",
     "pic": "Salata-de-Fasole-Pastai-cu-Legume",
     "price": "$7.99",
-    "desc_en": "Green beans and vegetables salad",
-    "desc_ru": "Салат из зеленой фасоли с овощами"
+    "description":{
+        "en": "Green beans and vegetables salad",
+        "ru": "Салат из зеленой фасоли с овощами"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Moldova",
     "pic": "Moldova",
     "price": "$9.99",
-    "desc_en": "Assorted plate with Bujenina, Gogoase and cut vegetables",
-    "desc_ru": "Ассорти из буженины, пикантных сырных шариков и овощей"
+    "description":{
+        "en": "Assorted plate with Bujenina, Gogoase and cut vegetables",
+        "ru": "Ассорти из буженины, пикантных сырных шариков и овощей"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Platou din Legume Prajite",
     "pic": "Platou-din-Legume-Prajite",
     "price": "$7.99",
-    "desc_en": "Peppers, eggplant, zucchini with mix vegetable sauce",
-    "desc_ru": "Перец, баклажан, кабачки с овощным соусом"
+    "description":{
+        "en": "Peppers, eggplant, zucchini with mix vegetable sauce",
+        "ru": "Перец, баклажан, кабачки с овощным соусом"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Platou de Peste",
     "pic": "Platou-de-Peste",
     "price": "$14.99",
-    "desc_en": "Smoked fish-cured fish",
-    "desc_ru": "Ассорти из копченой рыбы (скумбрия, семга, осетрина)"
+    "description":{
+        "en": "Smoked fish-cured fish",
+        "ru": "Ассорти из копченой рыбы (скумбрия, семга, осетрина)"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": 0,
     "pic": "Gogoase-Picante",
     "price": "$6.99",
-    "desc_en": "Spicy cheese spread with tomatoes",
-    "desc_ru": "Пикантные сырные шарики с помидорами"
+    "description":{
+        "en": "Spicy cheese spread with tomatoes",
+        "ru": "Пикантные сырные шарики с помидорами"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": 0,
     "pic": "Racituri",
     "price": "$6.49",
-    "desc_en": "Chilled meat broth dish",
-    "desc_ru": "Холодец"
+    "description":{
+        "en": "Chilled meat broth dish",
+        "ru": "Холодец"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": 0,
     "pic": "Icra-de-Vinata",
     "price": "$4.99",
-    "desc_en": "Roasted Eggplant dressed with olive oil",
-    "desc_ru": "Баклажанная икра с оливковым маслом"
+    "description":{
+        "en": "Roasted Eggplant dressed with olive oil",
+        "ru": "Баклажанная икра с оливковым маслом"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": 0,
     "pic": "Fasolita",
     "price": "$6.59",
-    "desc_en": "Bean paste with roasted onion, olive oil and spices",
-    "desc_ru": "Тертая фасоль с жареным луком"
+    "description":{
+        "en": "Bean paste with roasted onion, olive oil and spices",
+        "ru": "Тертая фасоль с жареным луком"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Limba de Vita",
     "pic": "Limba-de-Vita",
     "price": "$6.99",
-    "desc_en": "Veal tongue with horseradish sauce",
-    "desc_ru": "Телячий язык с хреном"
+    "description":{
+        "en": "Veal tongue with horseradish sauce",
+        "ru": "Телячий язык с хреном"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Muschi (Bujenina)",
     "pic": "Muschi-Bujenina",
     "price": "$6.99",
-    "desc_en": "Cold boild pork",
-    "desc_ru": "Буженина"
+    "description":{
+        "en": "Cold boild pork",
+        "ru": "Буженина"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Muraturi",
     "pic": "Muraturi",
     "price": "$9.99",
-    "desc_en": "Assorted pickles plate",
-    "desc_ru": "Ассорти из солений"
+    "description":{
+        "en": "Assorted pickles plate",
+        "ru": "Ассорти из солений"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Hering cu Сartofi noi cu Marari",
     "pic": "Hering-cu-Cartofi-noi-cu-Marari",
     "price": "$8.99",
-    "desc_en": "Herring and cooked potatoes",
-    "desc_ru": "Сельдь с отварной картошкой"
+    "description":{
+        "en": "Herring and cooked potatoes",
+        "ru": "Сельдь с отварной картошкой"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Platou cu Cascaval",
     "pic": "Platou-cu-Cascaval",
     "price": "$10.99",
-    "desc_en": "Moldavian style cheese plate",
-    "desc_ru": "Сырная нарезка в молдавском стиле"
+    "description":{
+        "en": "Moldavian style cheese plate",
+        "ru": "Сырная нарезка в молдавском стиле"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Trapeza Haiducului",
     "pic": "Trapeza-Haiducului",
     "price": "$12.99",
-    "desc_en": "Fresh vegetables, mix plate of kielbasas",
-    "desc_ru": "Свежие овощи и колбасная нарезка"
+    "description":{
+        "en": "Fresh vegetables, mix plate of kielbasas",
+        "ru": "Свежие овощи и колбасная нарезка"
+    }
   },
   {
     "category": "Cold Appetizers",
     "title": "Platou de Carne",
     "pic": "Platou-de-Carne",
     "price": "$10.99",
-    "desc_en": "Assorted meat plate",
-    "desc_ru": "Мясное ассорти"
+    "description":{
+        "en": "Assorted meat plate",
+        "ru": "Мясное ассорти"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Ursuleti (House Special)",
     "pic": "Ursuleti",
     "price": "$6.99",
-    "desc_en": "Fried mamaliga balls stuffed with feta cheese, bacon and sour cream",
-    "desc_ru": "Жареные шарики из мамалыги, фаршированные брынзой и беконом со сметаной"
+    "description":{
+        "en": "Fried mamaliga balls stuffed with feta cheese, bacon and sour cream",
+        "ru": "Жареные шарики из мамалыги, фаршированные брынзой и беконом со сметаной"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Coltunasi",
     "pic": "Coltunasi-Fat-Frumos",
     "price": "$6.99",
-    "desc_en": "Traditional dumplings served with sour cream and butter, choice of: farmer cheese / meat / potatoes (topping of fried onion)",
-    "desc_ru": "Традиционные вареники, пельмени со сметаной и сливочным маслом, на выбор: творог / мясо / картофель (подаются с жареным луком)"
+    "description":{
+        "en": "Traditional dumplings served with sour cream and butter, choice of: farmer cheese / meat / potatoes (topping of fried onion)",
+        "ru": "Традиционные вареники, пельмени со сметаной и сливочным маслом, на выбор: творог / мясо / картофель (подаются с жареным луком)"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Placinte",
     "pic": "Placinte",
     "price": "$3.99",
-    "desc_en": "Homemade baked pastries with: farmer cheese and herbs / potatoes with onions / cabbage",
-    "desc_ru": "Домашние “плацинды” с: творогом и зеленью / картофелем и луком / капустой"
+    "description":{
+        "en": "Homemade baked pastries with: farmer cheese and herbs / potatoes with onions / cabbage",
+        "ru": "Домашние “плацинды” с: творогом и зеленью / картофелем и луком / капустой"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Sarmale ca la Mama",
     "pic": "Sarmale-ca-la-Mama",
     "price": "$5.99",
-    "desc_en": "Traditional stuffed rolls with rice and meat (cabbage or grape leaves)",
-    "desc_ru": "Голубцы в виноградных или капустных листьях (на выбор)"
+    "description":{
+        "en": "Traditional stuffed rolls with rice and meat (cabbage or grape leaves)",
+        "ru": "Голубцы в виноградных или капустных листьях (на выбор)"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Mititei",
     "pic": "Mititei",
     "price": "$5.99",
-    "desc_en": "Grilled traditional sausages served with peas and onions",
-    "desc_ru": "Мититеи (молотое мясо), приготовленное на гриле по традиционному молдавскому рецепту, подается с горохом и луком"
+    "description":{
+        "en": "Grilled traditional sausages served with peas and onions",
+        "ru": "Мититеи (молотое мясо), приготовленное на гриле по традиционному молдавскому рецепту, подается с горохом и луком"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Carnaciori",
     "pic": "Carnaciori",
     "price": "$8.99",
-    "desc_en": "Grilled traditional kielbasa served with peas and onions",
-    "desc_ru": "Традиционная молдавская колбаса, приготовленная на гриле, подается с горохом и луком"
+    "description":{
+        "en": "Grilled traditional kielbasa served with peas and onions",
+        "ru": "Традиционная молдавская колбаса, приготовленная на гриле, подается с горохом и луком"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Jumari",
     "pic": "Jumari",
     "price": "$6.99",
-    "desc_en": "Deep fried pork belly",
-    "desc_ru": "Шкварки по-молдавски"
+    "description":{
+        "en": "Deep fried pork belly",
+        "ru": "Шкварки по-молдавски"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Chiperi Umpluti",
     "pic": "Chiperi-Umpluti",
     "price": "$7.99",
-    "desc_en": "Peppers stuffed with rice, vegetables and meat",
-    "desc_ru": "Фаршированные перцы"
+    "description":{
+        "en": "Peppers stuffed with rice, vegetables and meat",
+        "ru": "Фаршированные перцы"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Cascaval Pane",
     "pic": "Cascaval-Pane",
     "price": "$8.99",
-    "desc_en": "Transylvanian fried cheese",
-    "desc_ru": "Жареный сыр по-трансильвански"
+    "description":{
+        "en": "Transylvanian fried cheese",
+        "ru": "Жареный сыр по-трансильвански"
+    }
   },
   {
     "category": "Hot Appetizers",
     "title": "Coltunasi Lenesi",
     "pic": "Coltunasi-Lenesi",
     "price": "$6.99",
-    "desc_en": "Lazy dumplings",
-    "desc_ru": "Ленивые вареники"
+    "description":{
+        "en": "Lazy dumplings",
+        "ru": "Ленивые вареники"
+    }
   },
   {
     "category": "Soups",
     "title": "Zeama",
     "pic": "Zeama",
     "price": "$6.99",
-    "desc_en": "Chicken meat soup with homemade noodles",
-    "desc_ru": "Куриный суп с домашней лапшой"
+    "description":{
+        "en": "Chicken meat soup with homemade noodles",
+        "ru": "Куриный суп с домашней лапшой"
+    }
   },
   {
     "category": "Soups",
     "title": "Ciorba de Vita cu Fasole",
     "pic": "Ciorba-de-Vita-cu-Fasole",
     "price": "$6.99",
-    "desc_en": "Veal meat soup with beans and vegetables",
-    "desc_ru": "Суп из телятины с фасолью и овощами"
+    "description":{
+        "en": "Veal meat soup with beans and vegetables",
+        "ru": "Суп из телятины с фасолью и овощами"
+    }
   },
   {
     "category": "Soups",
     "title": "Ciorba de Perisoare",
     "pic": "Ciorba-de-Perisoare",
     "price": "$5.99",
-    "desc_en": "Meatball sour soup",
-    "desc_ru": "Суп с фрикадельками"
+    "description":{
+        "en": "Meatball sour soup",
+        "ru": "Суп с фрикадельками"
+    }
   },
   {
     "category": "Soups",
     "title": "Ciorba de Burta",
     "pic": "Ciorba-de-Burta",
     "price": "$6.99",
-    "desc_en": "Beef tripe sour cream soup",
-    "desc_ru": "Традиционный румынский говяжий крем-суп"
+    "description":{
+        "en": "Beef tripe sour cream soup",
+        "ru": "Традиционный румынский говяжий крем-суп"
+    }
   },
   {
     "category": "Soups",
     "title": "Bors Rosu",
     "pic": "Bors-Rosu",
     "price": "$6.99",
-    "desc_en": "Beetroot borscht sour soup",
-    "desc_ru": "Красный борщ"
+    "description":{
+        "en": "Beetroot borscht sour soup",
+        "ru": "Красный борщ"
+    }
   },
   {
     "category": "Soups",
     "title": "Ciorba de Peste",
     "pic": "Ciorba-de-Peste",
     "price": "$6.99",
-    "desc_en": "Fish soup",
-    "desc_ru": "Уха"
+    "description":{
+        "en": "Fish soup",
+        "ru": "Уха"
+    }
   },
   {
     "category": "Side Dishes",
     "title": "Mamaliga",
     "pic": "Mamaliga",
     "price": "$5.99",
-    "desc_en": "Traditional corn meal served with feta cheese and sour cream and deep fried pork belly",
-    "desc_ru": "Традиционное кукурузное блюдо, подается с сыром, сметаной и свиными шкварками"
+    "description":{
+        "en": "Traditional corn meal served with feta cheese and sour cream and deep fried pork belly",
+        "ru": "Традиционное кукурузное блюдо, подается с сыром, сметаной и свиными шкварками"
+    }
   },
   {
     "category": "Side Dishes",
     "title": "Cartofi ca Acasa",
     "pic": "Cartofi-ca-Acasa",
     "price": "$5.99",
-    "desc_en": "Home fried potatoes with mushrooms and onions",
-    "desc_ru": "Картошка жареная по-домашнему с грибами и луком"
+    "description":{
+        "en": "Home fried potatoes with mushrooms and onions",
+        "ru": "Картошка жареная по-домашнему с грибами и луком"
+    }
   },
   {
     "category": "Side Dishes",
     "title": "Taitei",
     "pic": "Taitei",
     "price": "$4.99",
-    "desc_en": "Homemade pasta",
-    "desc_ru": "Макароны по-домашнему"
+    "description":{
+        "en": "Homemade pasta",
+        "ru": "Макароны по-домашнему"
+    }
   },
   {
     "category": "Side Dishes",
     "title": "Pilaf",
     "pic": "Pilaf",
     "price": "$4.59",
-    "desc_en": "Rice with veggies",
-    "desc_ru": "Рис с овощами"
+    "description":{
+        "en": "Rice with veggies",
+        "ru": "Рис с овощами"
+    }
   },
   {
     "category": "Side Dishes",
     "title": "Cartofi Tocati",
     "pic": "Cartofi-Tocati",
     "price": "$3.99",
-    "desc_en": "Mashed potatoes",
-    "desc_ru": "Картофельное пюре"
+    "description":{
+        "en": "Mashed potatoes",
+        "ru": "Картофельное пюре"
+    }
   },
   {
     "category": "Side Dishes",
     "title": "Pastari cu chiperi la gratar",
     "pic": "Pastari-cu-chiperi-la-gratar",
     "price": "$5.99",
-    "desc_en": "Grilled green beans and peppers",
-    "desc_ru": "Молодая зеленая фасоль с перцами на гриле"
+    "description":{
+        "en": "Grilled green beans and peppers",
+        "ru": "Молодая зеленая фасоль с перцами на гриле"
+    }
   },
   {
     "category": "Side Dishes",
     "title": "Porumb dulce la grill",
     "pic": "Porumb-dulce-la-grill",
     "price": "$3.99",
-    "desc_en": "Sweet grilled corn",
-    "desc_ru": "Кукуруза на гриле"
+    "description":{
+        "en": "Sweet grilled corn",
+        "ru": "Кукуруза на гриле"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Mamaliga Trapeza (House Special)",
     "pic": "Mamaliga-Trapeza",
     "price": "$12.99",
-    "desc_en": "Special prepared corn meal with assorted sides of meat, cheese, sour cream, scrambled eggs",
-    "desc_ru": "Мамалыга, приготовленная по традиционному рецепту Молдавии, с мясом, сыром, сметаной и омлетом"
+    "description":{
+        "en": "Special prepared corn meal with assorted sides of meat, cheese, sour cream, scrambled eggs",
+        "ru": "Мамалыга, приготовленная по традиционному рецепту Молдавии, с мясом, сыром, сметаной и омлетом"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Costita",
     "pic": "Costita",
     "price": "$13.99",
-    "desc_en": "Traditional cooked pork chop with mamaliga",
-    "desc_ru": "Свинина на косточке с мамалыгой"
+    "description":{
+        "en": "Traditional cooked pork chop with mamaliga",
+        "ru": "Свинина на косточке с мамалыгой"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Snitzel",
     "pic": "Snitzel",
     "price": "$10.99",
-    "desc_en": "Chicken breast in eggs and flour",
-    "desc_ru": "Куриная грудка в кляре"
+    "description":{
+        "en": "Chicken breast in eggs and flour",
+        "ru": "Куриная грудка в кляре"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Medalion",
     "pic": "Medalion",
     "price": "$12.99",
-    "desc_en": "Stuffed chicken breast with cheese topping",
-    "desc_ru": "Фаршированная куриная грудка в сырном соусе"
+    "description":{
+        "en": "Stuffed chicken breast with cheese topping",
+        "ru": "Фаршированная куриная грудка в сырном соусе"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Pastrav",
     "pic": "Pastrav",
     "price": "$14.99",
-    "desc_en": "Grilled trout with vegetables",
-    "desc_ru": "Форель на гриле с овощами"
+    "description":{
+        "en": "Grilled trout with vegetables",
+        "ru": "Форель на гриле с овощами"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Ceafa de Porc",
     "pic": "Ceafa-de-Porc",
     "price": "$12.99",
-    "desc_en": "Pork neck on grill",
-    "desc_ru": "Свиная шейка на гриле"
+    "description":{
+        "en": "Pork neck on grill",
+        "ru": "Свиная шейка на гриле"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Antricot",
     "pic": "Antricot",
     "price": "$12.50",
-    "desc_en": "Beef grilled with herbs",
-    "desc_ru": "Говядина на гриле с пряными травами"
+    "description":{
+        "en": "Beef grilled with herbs",
+        "ru": "Говядина на гриле с пряными травами"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Carp",
     "pic": "Carp",
     "price": "$8.99",
-    "desc_en": "Carp fried in corn meal",
-    "desc_ru": "Филе карпа, обжаренное в кукурузной муке"
+    "description":{
+        "en": "Carp fried in corn meal",
+        "ru": "Филе карпа, обжаренное в кукурузной муке"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Somon",
     "pic": "Somon",
     "price": "$11.99",
-    "desc_en": "Grilled salmon with lemon sauce and veggies",
-    "desc_ru": "Лосось на гриле с лимонным соусом и овощами"
+    "description":{
+        "en": "Grilled salmon with lemon sauce and veggies",
+        "ru": "Лосось на гриле с лимонным соусом и овощами"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Ficatei de pui la tigaie",
     "pic": "Ficatei-de-pui-la-tigaie",
     "price": "$9.99",
-    "desc_en": "Chicken liver on frying pan with mamaliga",
-    "desc_ru": "Куриная печень на сковороде с мамалыгой"
+    "description":{
+        "en": "Chicken liver on frying pan with mamaliga",
+        "ru": "Куриная печень на сковороде с мамалыгой"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Frigarui de Porc",
     "pic": "Frigarui-de-Porc",
     "price": "$9.99",
-    "desc_en": "Pork shish kebab",
-    "desc_ru": "Свиной шашлык"
+    "description":{
+        "en": "Pork shish kebab",
+        "ru": "Свиной шашлык"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Frigarui de Gaina",
     "pic": "Frigarui-de-Gaina",
     "price": "$8.99",
-    "desc_en": "Chicken shish kebab",
-    "desc_ru": "Куриный шашлык"
+    "description":{
+        "en": "Chicken shish kebab",
+        "ru": "Куриный шашлык"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Frigarui de Miel",
     "pic": "Frigarui-de-Miel",
     "price": "$11.99",
-    "desc_en": "Lamb shish kebab",
-    "desc_ru": "Шашлык из баранины"
+    "description":{
+        "en": "Lamb shish kebab",
+        "ru": "Шашлык из баранины"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Costita de Vita",
     "pic": "Costita-de-Vita",
     "price": "$19.99",
-    "desc_en": "Rib eye steak",
-    "desc_ru": "Говяжее ребро"
+    "description":{
+        "en": "Rib eye steak",
+        "ru": "Говяжее ребро"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Zander",
     "pic": "Zander",
     "price": "$12.99",
-    "desc_en": "Baked breaded zander",
-    "desc_ru": "Запеченный в панировке судак"
+    "description":{
+        "en": "Baked breaded zander",
+        "ru": "Запеченный в панировке судак"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Iepure fript",
     "pic": "Iepure-fript",
     "price": "$14.99",
-    "desc_en": "Rabbit in white sauce with mamaliga",
-    "desc_ru": "Кролик в белом соусе с мамалыгой"
+    "description":{
+        "en": "Rabbit in white sauce with mamaliga",
+        "ru": "Кролик в белом соусе с мамалыгой"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Perjoale ca la Tiraspol",
     "pic": "Perjoale-ca-la-Tiraspol",
     "price": "$12.99",
-    "desc_en": "Stuffed chicken breast with cheese and sour pickles fried with egg and flour",
-    "desc_ru": "Котлеты по-тираспольски"
+    "description":{
+        "en": "Stuffed chicken breast with cheese and sour pickles fried with egg and flour",
+        "ru": "Котлеты по-тираспольски"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Pui la Gratar",
     "pic": "Pui-la-Gratar",
     "price": "$10.99",
-    "desc_en": "Grilled chicken served with homemade pasta",
-    "desc_ru": "Цыпленок на гриле с лапшой по-домашнему"
+    "description":{
+        "en": "Grilled chicken served with homemade pasta",
+        "ru": "Цыпленок на гриле с лапшой по-домашнему"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Friptura de Pui cu ciuperci",
     "pic": "Friptura-de-Pui-cu-ciuperci",
     "price": "$10.99",
-    "desc_en": "Roast chicken with mushrooms",
-    "desc_ru": "Жаркое из цыпленка с грибами"
+    "description":{
+        "en": "Roast chicken with mushrooms",
+        "ru": "Жаркое из цыпленка с грибами"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Friptura de meil (Ciulama)",
     "pic": "Friptura-de-meil-Ciulama",
     "price": "$14.99",
-    "desc_en": "Roast lamb with mamaliga side",
-    "desc_ru": "Жаркое из баранины с мамалыгой"
+    "description":{
+        "en": "Roast lamb with mamaliga side",
+        "ru": "Жаркое из баранины с мамалыгой"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Muschi de porc la gratar",
     "pic": "Muschi-de-porc-la-gratar",
     "price": "$13.99",
-    "desc_en": "Grilled fillet of pork",
-    "desc_ru": "Свиная вырезка на гриле"
+    "description":{
+        "en": "Grilled fillet of pork",
+        "ru": "Свиная вырезка на гриле"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Snitel de porc in still francez",
     "pic": "Snitel-de-porc-in-still-francez",
     "price": "$13.99",
-    "desc_en": "Pork neck fried in four and egg",
-    "desc_ru": "Свиной биточек"
+    "description":{
+        "en": "Pork neck fried in four and egg",
+        "ru": "Свиной биточек"
+    }
   },
   {
     "category": "Dessert",
     "title": "Mere sau Pere Coapte",
     "pic": "Mere-sau-Pere-Coapte",
     "price": "$5.99",
-    "desc_en": "Baked apple or pear stuffed with nuts and honey",
-    "desc_ru": "Запеченные яблоки или груши (фаршированные орехами и медом)"
+    "description":{
+        "en": "Baked apple or pear stuffed with nuts and honey",
+        "ru": "Запеченные яблоки или груши (фаршированные орехами и медом)"
+    }
   },
   {
     "category": "Dessert",
     "title": "Prune uscate umplute cu nuci",
     "pic": "Prune-uscate-umplute-cu-nuci",
     "price": "$6.99",
-    "desc_en": "Stuffed dried plums with nuts, wine sauce and cream",
-    "desc_ru": "Чернослив, фаршированный грецким орехом, с соусом из вина и сливок"
+    "description":{
+        "en": "Stuffed dried plums with nuts, wine sauce and cream",
+        "ru": "Чернослив, фаршированный грецким орехом, с соусом из вина и сливок"
+    }
   },
   {
     "category": "Dessert",
     "title": "Clatite cu Visine",
     "pic": "Clatite-cu-Visine",
     "price": "$6.99",
-    "desc_en": "Moldavian-style crepes with sour cherries and cream",
-    "desc_ru": "Блины с вишней по-молдавски"
+    "description":{
+        "en": "Moldavian-style crepes with sour cherries and cream",
+        "ru": "Блины с вишней по-молдавски"
+    }
   },
   {
     "category": "Dessert",
     "title": "Placinta cu Bostan",
     "pic": "Placinta-cu-Bostan",
     "price": "$4.99",
-    "desc_en": "Homemade baked pastries with pumpkin",
-    "desc_ru": "Домашние плацинды с тыквой"
+    "description":{
+        "en": "Homemade baked pastries with pumpkin",
+        "ru": "Домашние плацинды с тыквой"
+    }
   },
   {
     "category": "Dessert",
     "title": "Platou cu Fructe",
     "pic": "Platou-cu-Fructe",
     "price": "$14.99",
-    "desc_en": "Fruit plate",
-    "desc_ru": "Нарезка из фруктов"
+    "description":{
+        "en": "Fruit plate",
+        "ru": "Нарезка из фруктов"
+    }
   },
   {
     "category": "Dessert",
     "title": "Napoleon",
     "pic": "Napoleon",
     "price": "$5.99",
-    "desc_en": "A cake made up of several layers of puff pastry alternating layers of whipped cream",
-    "desc_ru": "Пирожное из слоёного теста с кремовыми прослойками"
+    "description":{
+        "en": "A cake made up of several layers of puff pastry alternating layers of whipped cream",
+        "ru": "Пирожное из слоёного теста с кремовыми прослойками"
+    }
   },
   {
     "category": "Dessert",
     "title": "Placinte cu Visina",
     "pic": "Placinte-cu-Visina",
     "price": "$4.99",
-    "desc_en": "Traditional baked pastries with sour cherry",
-    "desc_ru": "Домашние плацинды с вишней"
+    "description":{
+        "en": "Traditional baked pastries with sour cherry",
+        "ru": "Домашние плацинды с вишней"
+    }
   },
   {
     "category": "Dessert",
     "title": "Coltunasi cu Visina",
     "pic": "Coltunasi-cu-Visina",
     "price": "$6.99",
-    "desc_en": "Traditional dumplings with sour cherry",
-    "desc_ru": "Традиционные вареники с вишней"
+    "description":{
+        "en": "Traditional dumplings with sour cherry",
+        "ru": "Традиционные вареники с вишней"
+    }
   },
   {
     "category": "Dessert",
     "title": "Papanasi prajiti",
     "pic": "Papanasi-prajiti",
     "price": "$6.99",
-    "desc_en": "Romanian-style fried donuts served with sour cream and jam",
-    "desc_ru": "Пончики по-румынски со сметаной и вареньем"
+    "description":{
+        "en": "Romanian-style fried donuts served with sour cream and jam",
+        "ru": "Пончики по-румынски со сметаной и вареньем"
+    }
   },
   {
     "category": "Dessert",
     "title": "Baba Alba",
     "pic": "Baba-Alba",
     "price": "$6.99",
-    "desc_en": "Traditional Moldavian cake made with fried pasta",
-    "desc_ru": "Традиционный модавский пирог из домашней лапши"
+    "description":{
+        "en": "Traditional Moldavian cake made with fried pasta",
+        "ru": "Традиционный модавский пирог из домашней лапши"
+    }
   },
   {
     "category": "Dessert",
     "title": "Baba Neagra",
     "pic": "Baba-Neagra",
     "price": "$6.99",
-    "desc_en": "Traditional Moldavian chocolate pudding",
-    "desc_ru": "Традиционный модавский шоколадный пудинг"
+    "description":{
+        "en": "Traditional Moldavian chocolate pudding",
+        "ru": "Традиционный модавский шоколадный пудинг"
+    }
   },
   {
     "category": "Drinks",
     "title": "Apa Minerala",
     "pic": "Apa-Minerala",
     "price": "$4.99 1,0L / $2,99 0,5L",
-    "desc_en": "Sparkling Water",
-    "desc_ru": "Газированная вода"
+    "description":{
+        "en": "Sparkling Water",
+        "ru": "Газированная вода"
+    }
   },
   {
     "category": "Drinks",
     "title": "Compot de Casa",
     "pic": "Punch",
     "price": "$2.99 glass / $8.99 pitcher",
-    "desc_en": "Homemade Fruit Punch",
-    "desc_ru": "Домашний фруктовый компот"
+    "description":{
+        "en": "Homemade Fruit Punch",
+        "ru": "Домашний фруктовый компот"
+    }
   },
   {
     "category": "Drinks",
     "title": "Suc",
     "pic": "Juice",
     "price": "$2.99 glass / $8.99 pitcher",
-    "desc_en": "Juice (orange, apple, grapefruit, cranberry, tomato, pineapple)",
-    "desc_ru": "Cок (апельсиновый, яблочный, грейпфрутовый, клюквенный, томатный,ананасовый)"
+    "description":{
+        "en": "Juice (orange, apple, grapefruit, cranberry, tomato, pineapple)",
+        "ru": "Cок (апельсиновый, яблочный, грейпфрутовый, клюквенный, томатный,ананасовый)"
+    }
   },
   {
     "category": "Drinks",
     "title": "Cafea",
     "pic": "Coffee",
     "price": "$2.59",
-    "desc_en": "Coffee",
-    "desc_ru": "Кофе"
+    "description":{
+        "en": "Coffee",
+        "ru": "Кофе"
+    }
   },
   {
     "category": "Drinks",
     "title": "Ceai",
     "pic": "Tea",
     "price": "$2.59",
-    "desc_en": "Tea",
-    "desc_ru": "Чай"
+    "description":{
+        "en": "Tea",
+        "ru": "Чай"
+    }
   },
   {
     "category": "Drinks",
     "title": "Espresso",
     "pic": "Espresso",
     "price": "$3.99",
-    "desc_en": "Espresso",
-    "desc_ru": "Эспрессо"
+    "description":{
+        "en": "Espresso",
+        "ru": "Эспрессо"
+    }
   },
   {
     "category": "Drinks",
     "title": "Cappuccino",
     "pic": "Cappuccino",
     "price": "$4.99",
-    "desc_en": "Cappuccino",
-    "desc_ru": "Капучино"
+    "description":{
+        "en": "Cappuccino",
+        "ru": "Капучино"
+    }
   }
 ]

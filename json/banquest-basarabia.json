@@ -3,161 +3,207 @@
     "category": "Appetizers",
     "title": "Platou din Legume Prajite",
     "pic": "Platou-din-Legume-Prajite",
-    "desc_en": "Peppers, eggplant, zucchini with mix vegetable sauce",
-    "desc_ru": "Перец, баклажан, кабачки с овощным соусом"
+    "description":{
+        "en": "Peppers, eggplant, zucchini with mix vegetable sauce",
+        "ru": "Перец, баклажан, кабачки с овощным соусом"
+    }
   },
   {
     "category": "Appetizers",
     "title": "Platou de Carne",
     "pic": "Platou-de-Carne",
-    "desc_en": "Assorted meat plate",
-    "desc_ru": "Мясное ассорти"
+    "description":{
+        "en": "Assorted meat plate",
+        "ru": "Мясное ассорти"
+    }
   },
   {
     "category": "Appetizers",
     "title": "Hering cu Cartofi noi cu Marari",
     "pic": "Hering-cu-Cartofi-noi-cu-Marari",
-    "desc_en": "Herring and cooked potatoes",
-    "desc_ru": "Сельдь с отварной картошкой"
+    "description":{
+        "en": "Herring and cooked potatoes",
+        "ru": "Сельдь с отварной картошкой"
+    }
   },
   {
     "category": "Appetizers",
     "title": "Primavara",
     "pic": "Primavara",
-    "desc_en": "Red radish with lettuce, scallion, dill and sour cream",
-    "desc_ru": "Красная редиска с листьями салата, зеленый лук, укроп со сметаной"
+    "description":{
+        "en": "Red radish with lettuce, scallion, dill and sour cream",
+        "ru": "Красная редиска с листьями салата, зеленый лук, укроп со сметаной"
+    }
   },
   {
     "category": "Appetizers",
     "title": "Muraturi",
     "pic": "Muraturi",
-    "desc_en": "Assorted pickles plate",
-    "desc_ru": "Ассорти из солений"
+    "description":{
+        "en": "Assorted pickles plate",
+        "ru": "Ассорти из солений"
+    }
   },
   {
     "category": "Appetizers",
     "title": "Taranesc",
     "pic": "Taranesc",
-    "desc_en": "Tomatoes, cucumbers, peppers, feta cheese with sunflower oil dressing",
-    "desc_ru": "Помидоры, огурцы, сладкий перец, брынза с подсолнечным маслом"
+    "description":{
+        "en": "Tomatoes, cucumbers, peppers, feta cheese with sunflower oil dressing",
+        "ru": "Помидоры, огурцы, сладкий перец, брынза с подсолнечным маслом"
+    }
   },
   {
     "category": "Appetizers",
     "title": "Salata din Limba",
     "pic": "Salata-din-Limba",
-    "desc_en": "Veal tongue, tomatoes, cucumbers, rich dressing",
-    "desc_ru": "Телячий язык, помидоры, огурцы, соус"
+    "description":{
+        "en": "Veal tongue, tomatoes, cucumbers, rich dressing",
+        "ru": "Телячий язык, помидоры, огурцы, соус"
+    }
   },
   {
     "category": "Appetizers",
     "title": "“Racituri”",
     "pic": "Racituri",
-    "desc_en": "Chilled meat broth dish",
-    "desc_ru": "Холодец"
+    "description":{
+        "en": "Chilled meat broth dish",
+        "ru": "Холодец"
+    }
   },
   {
     "category": "Appetizers",
     "title": "“Fasolita”",
     "pic": "Fasolita",
-    "desc_en": "Bean paste with roasted onion, olive oil and spices",
-    "desc_ru": "Тертая фасоль с жареным луком"
+    "description":{
+        "en": "Bean paste with roasted onion, olive oil and spices",
+        "ru": "Тертая фасоль с жареным луком"
+    }
   },
   {
     "category": "Dessert",
     "title": "Dessert Moldova",
     "pic": "Dessert-Moldova",
-    "desc_en": "Baked apple or pear, stuffed dried plums with nuts, moldavian style crepes",
-    "desc_ru": "Запеченные яблоки или груши, чернослив с орехом, блины с вишней"
+    "description":{
+        "en": "Baked apple or pear, stuffed dried plums with nuts, moldavian style crepes",
+        "ru": "Запеченные яблоки или груши, чернослив с орехом, блины с вишней"
+    }
   },
   {
     "category": "Dessert",
     "title": "Platou cu Fructe",
     "pic": "Platou-cu-Fructe",
-    "desc_en": "Fruit plate",
-    "desc_ru": "Нарезка из фруктов"
+    "description":{
+        "en": "Fruit plate",
+        "ru": "Нарезка из фруктов"
+    }
   },
   {
     "category": "Drinks",
     "title": "Apa Minerala",
     "pic": "Apa-Minerala",
-    "desc_en": "Sparkling Water",
-    "desc_ru": "Газированная вода"
+    "description":{
+        "en": "Sparkling Water",
+        "ru": "Газированная вода"
+    }
   },
   {
     "category": "Drinks",
     "title": "Compot de Casa",
     "pic": "Punch",
-    "desc_en": "Homemade Fruit Punch",
-    "desc_ru": "Домашний фруктовый компот"
+    "description":{
+        "en": "Homemade Fruit Punch",
+        "ru": "Домашний фруктовый компот"
+    }
   },
   {
     "category": "Drinks",
     "title": "Suc",
     "pic": "Juice",
-    "desc_en": "Juice (orange, apple, grapefruit, cranberry, tomato, pineapple)",
-    "desc_ru": "Cок (апельсиновый, яблочный, грейпфрутовый, клюквенный, томатный,ананасовый)"
+    "description":{
+        "en": "Juice (orange, apple, grapefruit, cranberry, tomato, pineapple)",
+        "ru": "Cок (апельсиновый, яблочный, грейпфрутовый, клюквенный, томатный,ананасовый)"
+    }
   },
   {
     "category": "Drinks",
     "title": "Cafea",
     "pic": "Coffee",
-    "desc_en": "Coffee",
-    "desc_ru": "Кофе"
+    "description":{
+        "en": "Coffee",
+        "ru": "Кофе"
+    }
   },
   {
     "category": "Drinks",
     "title": "Ceai",
     "pic": "Tea",
-    "desc_en": "Tea",
-    "desc_ru": "Чай"
+    "description":{
+        "en": "Tea",
+        "ru": "Чай"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Cartofi ca Acasa",
     "pic": "Cartofi-ca-Acasa",
-    "desc_en": "Home fried potatoes with mushrooms and onions",
-    "desc_ru": "Картошка жареная по-домашнему с грибами и луком"
+    "description":{
+        "en": "Home fried potatoes with mushrooms and onions",
+        "ru": "Картошка жареная по-домашнему с грибами и луком"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Placinte",
     "pic": "Placinte",
-    "desc_en": "Homemade baked pastries with: farmer cheese and herbs / potatoes with onions / cabbage",
-    "desc_ru": "Домашние “плацинды” с: творогом и зеленью / картофелем и луком / капустой"
+    "description":{
+        "en": "Homemade baked pastries with: farmer cheese and herbs / potatoes with onions / cabbage",
+        "ru": "Домашние “плацинды” с: творогом и зеленью / картофелем и луком / капустой"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Sarmale ca la Mama",
     "pic": "Sarmale-ca-la-Mama",
-    "desc_en": "Traditional stuffed rolls with rice and meat (cabbage or grape leaves)",
-    "desc_ru": "Голубцы в виноградных или капустных листьях (на выбор)"
+    "description":{
+        "en": "Traditional stuffed rolls with rice and meat (cabbage or grape leaves)",
+        "ru": "Голубцы в виноградных или капустных листьях (на выбор)"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Carp",
     "pic": "Carp",
-    "desc_en": "Carp fried in corn meal",
-    "desc_ru": "Филе карпа, обжаренное в кукурузной муке"
+    "description":{
+        "en": "Carp fried in corn meal",
+        "ru": "Филе карпа, обжаренное в кукурузной муке"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Mititei / Carnaciori mix plate",
     "pic": "Mititei-Carnaciori",
-    "desc_en": "Grilled traditional sausages and kielbasa served with peas and onions",
-    "desc_ru": "Мититеи(молотое мясо) и колбаса приготовленные на гриле по  традиционному молдавскому рецепту, подается с горохом и с луком"
+    "description":{
+        "en": "Grilled traditional sausages and kielbasa served with peas and onions",
+        "ru": "Мититеи(молотое мясо) и колбаса приготовленные на гриле по  традиционному молдавскому рецепту, подается с горохом и с луком"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Mamaliga Trapeza",
     "pic": "Mamaliga-Trapeza",
-    "desc_en": "Special prepared corn meal with assorted sides of meat, cheese, sour cream, scrambled eggs",
-    "desc_ru": "Мамалыга, приготовленная по традиционному рецепту Молдавии, с мясом, сыром, сметаной и омлетом"
+    "description":{
+        "en": "Special prepared corn meal with assorted sides of meat, cheese, sour cream, scrambled eggs",
+        "ru": "Мамалыга, приготовленная по традиционному рецепту Молдавии, с мясом, сыром, сметаной и омлетом"
+    }
   },
   {
     "category": "Main Entrees",
     "title": "Frigarui de Porc / Frigarui de Gaina mix plate",
     "pic": "Frigarui-de-Porc",
-    "desc_en": "Pork shish kebab and сhicken shish kebab",
-    "desc_ru": "Свиной шашлык и куриный шашлык"
+    "description":{
+        "en": "Pork shish kebab and сhicken shish kebab",
+        "ru": "Свиной шашлык и куриный шашлык"
+    }
   }
 ]
